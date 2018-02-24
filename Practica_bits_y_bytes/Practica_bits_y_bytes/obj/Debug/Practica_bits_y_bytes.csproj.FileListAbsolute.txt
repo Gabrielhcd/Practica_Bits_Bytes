@@ -1,0 +1,10 @@
+C:\Users\Hoemhein\Documents\Visual Studio 2017\Projects\Practica_bits_y_bytes\Practica_bits_y_bytes\bin\Debug\Practica_bits_y_bytes.exe.config
+C:\Users\Hoemhein\Documents\Visual Studio 2017\Projects\Practica_bits_y_bytes\Practica_bits_y_bytes\bin\Debug\Practica_bits_y_bytes.exe
+C:\Users\Hoemhein\Documents\Visual Studio 2017\Projects\Practica_bits_y_bytes\Practica_bits_y_bytes\bin\Debug\Practica_bits_y_bytes.pdb
+C:\Users\Hoemhein\Documents\Visual Studio 2017\Projects\Practica_bits_y_bytes\Practica_bits_y_bytes\obj\Debug\Practica_bits_y_bytes.csprojResolveAssemblyReference.cache
+C:\Users\Hoemhein\Documents\Visual Studio 2017\Projects\Practica_bits_y_bytes\Practica_bits_y_bytes\obj\Debug\Practica_bits_y_bytes.Form1.resources
+C:\Users\Hoemhein\Documents\Visual Studio 2017\Projects\Practica_bits_y_bytes\Practica_bits_y_bytes\obj\Debug\Practica_bits_y_bytes.Properties.Resources.resources
+C:\Users\Hoemhein\Documents\Visual Studio 2017\Projects\Practica_bits_y_bytes\Practica_bits_y_bytes\obj\Debug\Practica_bits_y_bytes.csproj.GenerateResource.Cache
+C:\Users\Hoemhein\Documents\Visual Studio 2017\Projects\Practica_bits_y_bytes\Practica_bits_y_bytes\obj\Debug\Practica_bits_y_bytes.csproj.CoreCompileInputs.cache
+C:\Users\Hoemhein\Documents\Visual Studio 2017\Projects\Practica_bits_y_bytes\Practica_bits_y_bytes\obj\Debug\Practica_bits_y_bytes.exe
+C:\Users\Hoemhein\Documents\Visual Studio 2017\Projects\Practica_bits_y_bytes\Practica_bits_y_bytes\obj\Debug\Practica_bits_y_bytes.pdb
